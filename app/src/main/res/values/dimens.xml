@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Icon -->
+    <dimen name="app_icon_size">80dp</dimen>
+    <dimen name="app_icon_content_size">45dp</dimen>
+    <dimen name="app_icon_radius">20dp</dimen>
+
+    <!-- Typography -->
+    <dimen name="text_title">32sp</dimen>
+    <dimen name="text_subtitle">16sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_button">16sp</dimen>
+
+    <!-- Feature Items -->
+    <dimen name="feature_icon_size">48dp</dimen>
+    <dimen name="feature_icon_content_size">24dp</dimen>
+    <dimen name="feature_item_spacing">20dp</dimen>
+
+    <!-- Permission Notice -->
+    <dimen name="permission_icon_size">32dp</dimen>
+    <dimen name="permission_icon_content_size">18dp</dimen>
+
+    <!-- Spacing -->
+    <dimen name="padding_screen">30dp</dimen>
+    <dimen name="padding_card">20dp</dimen>
+    <dimen name="margin_small">12dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">30dp</dimen>
+    <dimen name="margin_xlarge">40dp</dimen>
+
+    <!-- Button -->
+    <dimen name="button_padding">18dp</dimen>
+    <dimen name="button_radius">12dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="elevation_app_icon">8dp</dimen>
+    <dimen name="elevation_button">4dp</dimen>
+</resources>
